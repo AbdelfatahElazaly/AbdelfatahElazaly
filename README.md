@@ -28,7 +28,7 @@ I'm a **Data Analyst & Data Engineer** specialized in designing robust **Data Wa
 
 ### 🚀 FEATURED PROJECTS
 
-- 🏛️ **[Data Warehouse Implementation](#)** — Designed and implemented a Star Schema Data Warehouse with custom ETL workflows.
+- 🏛️ **[Data Warehouse Implementation](https://github.com/AbdelfatahElazaly/Datawarehouse_1)** — Designed and implemented a Star Schema Data Warehouse with custom ETL workflows.
 - 📊 **[Student Performance Analytics Dashboard](#)** — Power BI dashboard analyzing student risk levels and performance metrics.
 
 ---
