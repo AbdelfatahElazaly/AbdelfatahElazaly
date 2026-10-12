@@ -1,14 +1,22 @@
 # 👋 Hi there, I'm Abdelfatah
 
-I'm a **Data Analyst** passionate about extracting actionable insights from data, building interactive dashboards, and solving complex business problems using SQL, Python, Excel, and Power BI.
+I'm a **Data Analyst & Data Engineer** specialized in designing robust **Data Warehouses**, building **ETL Data Pipelines**, and delivering **Actionable Business Insights**.
+
+---
+
+### 🏛️ DATA WAREHOUSING & DATA ENGINEERING
+
+- 📐 **Data Modeling:** Dimensional Modeling, Star Schema, Snowflake Schema, Fact & Dimension Tables.
+- ⚙️ **ETL / ELT Pipelines:** Data Extraction, Cleaning, Transformation, and Automated Workflows.
+- 🗄️ **Database Architectures:** Relational Databases (PostgreSQL, MySQL, IBM Db2) & Enterprise Data Warehouses.
 
 ---
 
 ### 🛠 TECH STACK & TOOLS
 
-- 🗄️ **Querying & Databases:** SQL (PostgreSQL, MySQL, DB2)
-- 🐍 **Data Analysis & Scripting:** Python (Pandas, NumPy)
-- 📊 **BI & Data Visualization:** Power BI, Microsoft Excel, Looker Studio
+- 🗄️ **Querying & Databases:** SQL (Advanced Window Functions, CTEs, Indexing, Performance Tuning)
+- 🐍 **Data Analysis & Automation:** Python (Pandas, NumPy)
+- 📊 **BI & Reporting:** Power BI, Microsoft Excel, Looker Studio
 
 ---
 
@@ -18,10 +26,10 @@ I'm a **Data Analyst** passionate about extracting actionable insights from data
 
 ---
 
-### 🚀 MY FEATURED PROJECTS
+### 🚀 FEATURED PROJECTS
 
-- 📊 **Student Performance Analytics Dashboard** — Power BI dashboard evaluating student risk levels and academic progression.
-- 🔍 **SQL Analytical Queries Portfolio** — Complex analytical queries featuring window functions, CTEs, and aggregation strategies.
+- 🏛️ **[Data Warehouse Implementation](#)** — Designed and implemented a Star Schema Data Warehouse with custom ETL workflows.
+- 📊 **[Student Performance Analytics Dashboard](#)** — Power BI dashboard analyzing student risk levels and performance metrics.
 
 ---
 
